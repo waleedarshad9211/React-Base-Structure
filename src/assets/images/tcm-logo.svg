@@ -1,0 +1,15 @@
+<svg id="Component_215_1" data-name="Component 215 – 1" xmlns="http://www.w3.org/2000/svg" width="177.172" height="27" viewBox="0 0 177.172 27">
+  <g id="Group_40782" data-name="Group 40782">
+    <circle id="Ellipse_1374" data-name="Ellipse 1374" cx="2.026" cy="2.026" r="2.026" transform="translate(173.12 17.574)" fill="#5ec4b2"/>
+    <text id="ischargeHealth" transform="translate(20.716 19.858)" fill="#5ec4b2" font-size="25" font-family="AntipastoPro, Antipasto Pro"><tspan x="0" y="0">ischarge</tspan><tspan y="0" fill="#1c4588">Health</tspan></text>
+    <path id="Path_36330" data-name="Path 36330" d="M842.505,1022.258" transform="translate(-797.807 -1006.349)" fill="none" stroke="#5ec4b2" stroke-linecap="round" stroke-linejoin="round" stroke-width="7"/>
+    <path id="Path_36331" data-name="Path 36331" d="M1586.862,878.084a.247.247,0,0,1,.338,0Z" transform="translate(-1482.196 -873.213)" fill="#2b2b2b"/>
+    <g id="Group_40781" data-name="Group 40781">
+      <path id="Path_36332" data-name="Path 36332" d="M351.98,822.313a14.074,14.074,0,0,0-8.68-3.918,1.1,1.1,0,0,0-1.209,1.072h0a1.093,1.093,0,0,0,1.023,1.072,11.369,11.369,0,0,1,0,22.7,1.093,1.093,0,0,0-1.023,1.072h0a1.1,1.1,0,0,0,1.209,1.072,14.075,14.075,0,0,0,8.68-3.918,13.247,13.247,0,0,0,0-19.156Z" transform="translate(-337.709 -818.391)" fill="#5ec4b2"/>
+      <path id="Path_36333" data-name="Path 36333" d="M342.091,869.279h0a1.085,1.085,0,0,0,.984,1.055,7.394,7.394,0,0,1,0,14.738,1.085,1.085,0,0,0-.984,1.055h0a1.094,1.094,0,0,0,1.248,1.054,9.508,9.508,0,0,0,0-18.955A1.094,1.094,0,0,0,342.091,869.279Z" transform="translate(-337.709 -864.202)" fill="#5ec4b2"/>
+      <g id="Group_40780" data-name="Group 40780" transform="translate(0 4.059)">
+        <path id="Path_36334" data-name="Path 36334" d="M288.788,893.1a1.088,1.088,0,0,1-1.088-1.088V875.3a1.088,1.088,0,0,1,2.175,0v16.711A1.088,1.088,0,0,1,288.788,893.1Z" transform="translate(-287.7 -874.21)" fill="#1c4588"/>
+      </g>
+    </g>
+  </g>
+</svg>
